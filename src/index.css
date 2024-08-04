@@ -1,0 +1,13 @@
+.read {
+  color: aliceblue; 
+  text-decoration: line-through; 
+}
+
+.not-read {
+  color: blueviolet;
+}
+
+body {
+  background-color: lightblue;
+  font-weight: bold;
+}
